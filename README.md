@@ -15,8 +15,7 @@ This project is a simple web application built with React, Node.js, and MongoDB.
 
 Before running the application, make sure you have the following installed:
 
-- Node.js: [Download and Install Node.js](https://nodejs.org/)
-- MongoDB: [Install MongoDB](https://docs.mongodb.com/manual/installation/)
+- Docker: [Download and Install Node.js](https://www.docker.com/)
 
 ## Getting Started
 
