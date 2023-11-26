@@ -28,6 +28,7 @@ const auth = async (req: Request, res: Response) => {
 
     if (password !== user.password) {
       res.status(400).json({ error: "Email or password are incorrect" }).end();
+      return
     }
 
     //@ts-ignore
