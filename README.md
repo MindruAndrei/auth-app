@@ -30,3 +30,7 @@ Before running the application, make sure you have the following installed:
     docker compose up --build
 
 3. Check the app on localhost:80
+    Initial page will be the authentication form
+    Login credentials: andrei@email.com/pass@andrei
+    After login you will be redirected to home page where you have some weather data displayed
+    You will have the option of logging out
